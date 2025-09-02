@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Dashboard",
+        "icon": "pi pi-home",
+        "url": "/dashboard"
+    },
+    {
+        "name": "Products",
+        "icon": "pi pi-box",
+        "url": "/products"
+    },
+    {
+        "name": "Videos Link",
+        "icon": "pi pi-video",
+        "url": "/videos-links"
+    }
+]

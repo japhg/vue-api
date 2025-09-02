@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Some Product",
+        "price": "$13 USD",
+        "change": 12,
+        "sales": 12000,
+        "new": false
+    },
+    {
+        "name": "Another Product",
+        "price": "$29 USD",
+        "change": -0.5,
+        "sales": 123234,
+        "new": false
+    },
+    {
+        "name": "Amazing Product",
+        "price": "$1,230 USD",
+        "change": -3,
+        "sales": 198,
+        "new": false
+    },
+    {
+        "name": "Perfect Item",
+        "price": "$199 USD",
+        "change": 63,
+        "sales": 87,
+        "new": true
+    }
+]
